@@ -1,0 +1,1 @@
+XOR is the key, a number XOR 0 equals the number itself, a number XOR itself equals 0. 
