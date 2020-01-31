@@ -6,7 +6,7 @@ Do not allocate extra space for another array, you must do this by modifying the
 You may assume all the characters consist of printable ascii characters.
 
  
-
+```
 Example 1:
 
 Input: ["h","e","l","l","o"]
@@ -15,3 +15,4 @@ Example 2:
 
 Input: ["H","a","n","n","a","h"]
 Output: ["h","a","n","n","a","H"]
+```
