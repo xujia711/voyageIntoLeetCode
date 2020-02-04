@@ -5,4 +5,5 @@ Personal experience records on LeetCode. Implemented in Java.
 * [104. Maximum Depth of Binary Tree](Questions/104.%20Maximum%20Depth%20of%20Binary%20Tree)
 * [136. Single Number](Questions/136.%20Single%20Number)
 * [412. Fizz Buzz](Questions/412.%20Fizz%20Buzz)
+* [206. Reverse Linked List](Questions/206.%20Reverse%20Linked%20List)
 * [1. Two Sum](Questions/1.%20Two%20Sum)
