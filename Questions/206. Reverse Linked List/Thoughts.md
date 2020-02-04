@@ -1,6 +1,6 @@
 ## Iteratively
 * To alter a node, from pointing to next to pointing to previous. 3 nodes are involved, previous, current and next.
-* So the loop should assign these 3 variables properly so that we could iterator the whole link.
+* So the loop should assign these 3 variables properly so that we could loop the whole list.
 * In each iteration, there is one more operation to actually change pointer from next to previous.
 
 ## Recursively
