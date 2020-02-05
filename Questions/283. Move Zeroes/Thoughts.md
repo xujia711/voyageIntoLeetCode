@@ -1,0 +1,1 @@
+* Move an array of zeros instead of moving a single element.
