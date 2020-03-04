@@ -11,4 +11,5 @@ Personal experience records on LeetCode. Implemented in Java.
 * [242. Valid Anagram](Questions/242.%20Valid%20Anagram)
 * [108. Convert Sorted Array to Binary Search Tree](Questions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
 * [217. Contains Duplicate](Questions/217.%20Contains%20Duplicate)
+* [13. Roman to Integer](Questions/13.%20Roman%20to%20Integer)
 * [1. Two Sum](Questions/1.%20Two%20Sum)
