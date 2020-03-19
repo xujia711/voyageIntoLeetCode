@@ -1,0 +1,1 @@
+* It's like pulling a zip, recursive invocation fits this situation perfectly.
