@@ -16,4 +16,5 @@ Personal experience records on LeetCode. Implemented in Java.
 * [171. Excel Sheet Column Number](Questions/171.%20Excel%20Sheet%20Column%20Number)
 * [21. Merge Two Sorted Lists](Questions/21.%20Merge%20Two%20Sorted%20Lists)
 * [387. First Unique Character in a String](Questions/387.%20First%20Unique%20Character%20in%20a%20String)
+* [118. Pascal's Triangle](Questions/118.%20Pascal's%20Triangle)
 * [1. Two Sum](Questions/1.%20Two%20Sum)
