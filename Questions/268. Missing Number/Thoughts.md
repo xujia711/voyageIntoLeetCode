@@ -1,0 +1,1 @@
+* If possible, finding a solution in math is good. This could be the easiest math question. 
